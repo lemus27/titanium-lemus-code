@@ -1,0 +1,11 @@
+<Alloy>
+	   
+		<TabGroup id='tabGroup'>
+		  <Require src="tab1"></Require>
+		  <Require src="tab2"></Require>
+		 
+		  <Require src="webview"></Require>
+		   <Require src="MapDetail"></Require>
+		</TabGroup>
+	
+</Alloy>

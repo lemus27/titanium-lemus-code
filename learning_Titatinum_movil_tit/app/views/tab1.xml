@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Alloy>
+	<Collection src="users" />
+	<Tab id="tab1" title="Tab 1">
+		<Window id="win1">
+			<Label>hola ene l tab 1</Label>
+			<TableView id="tableView1"  dataCollection="users">
+				<TableViewRow id="row"  model="{alloy_id}">
+					<View class="vgroup">
+						<Label id="name" text="{name}"/>
+					</View>
+				</TableViewRow>
+			</TableView>
+		</Window>
+	</Tab>
+</Alloy>

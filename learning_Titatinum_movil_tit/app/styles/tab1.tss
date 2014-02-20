@@ -1,0 +1,13 @@
+"#tableView1": {
+	backgroundColor: 'transparent'
+}/*,
+"#name": {
+	top: "2dp",
+	height: Ti.UI.SIZE,
+	left: "5dp",
+	right: "5dp",
+	font: {
+		fontSize: "24dp"
+	},
+	color: '#fff'
+}*/

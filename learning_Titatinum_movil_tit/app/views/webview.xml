@@ -1,0 +1,11 @@
+<Alloy>
+	 <Tab id="tab1" title="Tab 3">
+	<Window class="container">
+	
+		<Require  src="entryView" id="entryView"/>
+		
+		<WebView url='/graph.html' id='graphView'>
+		
+	</Window>
+	</Tab>
+</Alloy>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Alloy>
+	<Tab id="tab1" title="Tab 2">
+		<Window id="win1">
+			<Label>
+				hola en  el  tab2
+			</Label>
+		</Window>
+	</Tab>
+</Alloy>
